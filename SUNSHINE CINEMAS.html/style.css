@@ -1,0 +1,72 @@
+div id navigation{ float: left;
+                        padding: 50px;
+                        }
+img { float: left;}
+        nav ul li { float: left;
+                    padding: 40px; 
+                   text-decoration: none;
+                   display: block;
+                
+                }
+        nav ul li a {float: left; 
+                     list-style-type: none;
+                     text-decoration: none;
+                     display: block;
+                     color: black;
+                    }
+        header{background-color: orange;
+        height: 200px;
+        width: 100%;
+        }
+        input searchbar{ float: right;
+              }
+               
+    h2{text-align: center;
+                       font-size: 50px;
+                       background-color: orange;}
+h3{ text-align: center;
+    font-size: 30px;
+background-color: orange;}
+        a { color: black;
+           text-decoration: none;
+        display: block;
+        }
+body{ background-color: lavenderblush;
+     font-family:sans-serif;}
+        footer{ background-color: orange;
+               height: 180px;
+               width: 100%;
+}
+        footer li{ list-style-type: none;}
+        td{ text-align: center;
+        padding-right: 150px;}
+ figure{
+              width: 250px;
+              height: 250px;
+              float: left;
+              padding-top: 50px;
+              padding-right: 300px;
+              padding-left: 0px;
+          }
+        figcaption ul li{ text-decoration: none;
+                          color: black;
+                          list-style-type: none;}
+        DOCTYPE,body{ display: flex;
+                    flex-direction: column;
+                    min-height: 100%;
+                    width: 100%
+        } 
+        #container{ min-height: 100%;
+        }
+        #main{ overflow: auto;
+              padding-bottom: 150px;
+             background-color: lavenderblush;
+        }
+        p a { display: block;
+               color: black;
+        }
+        #footer{ background-color: orange;
+            position: relative;
+            margin-top: auto;
+}
+ @media
